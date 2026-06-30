@@ -82,7 +82,7 @@
 
 ## 🔗 Ссылки
 
-- [Живой дашборд в Yandex DataLens](https://datalens.yandex.ru/...) *(https://datalens.yandex/gux844ja61vo0)*
+- [Живой дашборд в Yandex DataLens](https://datalens.yandex.ru/...) *https://datalens.yandex/gux844ja61vo0*
 - [Датасет на GitHub](./da_project02_data.csv)
 
 ---

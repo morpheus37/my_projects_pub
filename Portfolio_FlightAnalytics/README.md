@@ -61,7 +61,7 @@
 
 ## 🔗 Ссылки
 
-- [Живой дашборд в Yandex DataLens](https://datalens.yandex.ru/...) *(https://datalens.yandex/lz1doey8ryl25)*
+- [Живой дашборд в Yandex DataLens](https://datalens.yandex.ru/...) *https://datalens.yandex/lz1doey8ryl25*
 - [Датасет на GitHub](./da_project01_flights_statistic_aero.csv)
 
 ---
